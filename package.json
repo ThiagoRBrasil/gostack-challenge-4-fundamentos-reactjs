@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@types/cors": "^2.8.8",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "cors": "^2.8.5",
     "filesize": "^6.1.0",
     "history": "^4.10.1",
